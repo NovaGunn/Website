@@ -1,0 +1,445 @@
+body.home-page{
+    background-image: url(https://i.ytimg.com/vi/sYfRhHpaaY4/maxresdefault.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+h1 { 
+    position: absolute; 
+    top: 2%;
+    right: 38%;
+    color: aliceblue;
+    font-size: 60px;
+
+}
+
+.image-container{
+    position: relative;
+    width: 200px;
+    height: 200px;
+
+}
+
+.image-container img{
+    position: absolute;
+    width: 40%;
+    height: auto;
+    top: 13%;
+    left: 310%;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body.Sign_Up{
+    background-image: url(https://i.ytimg.com/vi/sYfRhHpaaY4/maxresdefault.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+   
+}
+
+.image-container1{
+    position: relative;
+    width: 10px;
+    height: 10px;
+
+}
+
+.image-container1 img{
+    position: absolute;
+    top: 13%;
+    left: 90%;
+    
+}
+
+.my-form {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    top: 38%;
+    left: 10%;
+    height: 50vh;  
+}
+
+.my-form label{
+    color: aliceblue;
+}
+
+.my-form input{
+    color: black;
+    width: 300px;
+}
+
+.SignupImage{
+    position: relative;
+    height: 100px;
+    width: 100px;
+}
+
+.SignupImage img{
+    position: absolute;
+    width: 900%;
+    height: auto;
+    top: 260%;
+    left:800%;  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body.About-Us{
+    background-image: url(https://i.ytimg.com/vi/sYfRhHpaaY4/maxresdefault.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover; 
+}
+
+.Owner{
+    position: relative;
+    height: 500px;
+    width: 800px;
+}
+
+.Owner img{
+    position: absolute;
+    width: 30%;
+    height: auto;
+    top: 90%;
+    left: 5%;
+}
+
+.Gym-Owner{
+    position: relative;
+    height: 1000px;
+    width: 1000px;
+}
+
+.Gym-Owner img{
+    position: absolute;
+    width: 23.8%;
+    height: auto;
+    top: -21%;
+    left: 4.2%;
+
+}
+
+.Female-Assistant{
+    position: relative;
+    height: 500px;
+    width: 800px;
+}
+ .Female-Assistant img{
+    position: absolute;
+    width: 29.5%;
+    height: 32.5%;
+    top: -242%;
+    left: 42%;
+ }
+
+.Female-Assistant-details{
+    position: relative;
+    height: 1000px;
+    width: 1000px;
+}
+
+.Female-Assistant-details img{
+    position: absolute;
+    width: 24%;
+    height: auto;
+    top: -155%;
+    left: 33.5%;
+}
+
+.Male-MMA-Fighter{
+    position: relative;
+    height: 1000px;
+    width: 1000px;
+}
+
+.Male-MMA-Fighter img{
+    position: absolute;
+    width: 24%;
+    height: 16%;
+    top: -271%;
+    left: 60%;
+}
+
+.Male-MMA-Fighter-Detials{
+    position: relative;
+    height: 1000px;
+    width: 1000px;
+}
+
+.Male-MMA-Fighter-Detials img{
+    position: absolute;
+    width: 24%;
+    height: auto;
+    top: -355%;
+    left: 60%;
+}
+
+.Male-MMA-Fighter-2{
+    position: relative;
+    height: 1000px;
+    width: 1000px;
+}
+
+
+.Male-MMA-Fighter-2 img{
+    position: absolute;
+    width: 24%;
+    height: 16%;
+    top: -471%;
+    left: 105%;
+}
+
+.Male-MMA-Fighter-2-Detials{
+    position: relative;
+    height: 1000px;
+    width: 1000px;
+}
+
+.Male-MMA-Fighter-2-Detials img{
+    position: absolute;
+    width: 24%;
+    height: auto;
+    top: -555%;
+    left: 105%;
+}
+
+
+
+
+
+
+
+
+body.Log-in{
+        background-image: url(https://i.ytimg.com/vi/sYfRhHpaaY4/maxresdefault.jpg);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        background-size: cover; 
+    }
+
+
+.Log-in-email{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    top: 38%;
+    left: 42%;
+    height: 50vh;
+}
+    
+
+
+.Log-in label{
+    color: aliceblue;
+}
+
+.Log-in input{
+    color: black;
+    width: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body.Timetable{
+    background-image: url(https://i.ytimg.com/vi/sYfRhHpaaY4/maxresdefault.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover; 
+}
+
+.Timetable{
+    position: relative;
+    height: auto;
+    width: auto;
+}
+
+.Timetable img {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, 55%);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body.Facilities{
+    background-image: url(https://i.ytimg.com/vi/sYfRhHpaaY4/maxresdefault.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover; 
+}
+
+.Open-matted-floor-dojo{
+    position: relative;
+    height: 2000px;
+    width: 1500px;
+}
+.Open-matted-floor-dojo img{
+    position: absolute;
+    width: 50%;
+    height: auto;
+    top: 12%;
+    left: 43.5%;
+    transform: translate(-12%,-43.5%);
+}
+
+.Fully-Equipped-Gym{
+    position: relative;
+    height: 1500px;
+    width: 2000px;
+}
+
+.Fully-Equipped-Gym img{
+    position: absolute;
+    width: 45%;
+    height: 40%;
+    top: -120%;
+    left: 34.8%;
+    transform: translate(30%);
+}
+
+.Locker-Room-Dry-Cedar-Sauna{
+    position: relative;
+    height: 1500px;
+    width: 2000px;
+}
+
+.Locker-Room-Dry-Cedar-Sauna img{
+    position: absolute;
+    width: 45%;
+    height: 40%;
+    top: -178%;
+    left: 0.5%;
+}
+
+.Changing-rooms{
+    position: relative;
+    height: 1500px;
+    width: 2000px;
+}
+
+.Changing-rooms img{
+    position: absolute;
+    width: 45%;
+    height: auto;
+    top: -100;
+    left: 50%;
+    transform: translate(-110%, -800%);
+}
+
+.Male-Shower-room{
+    position: relative;
+    height: 1500px;
+    width: 2000px;
+}
+
+.Male-Shower-room img{
+    position: absolute;
+    width: 45%;
+    height: auto;
+    top: -336%;
+    left: 0.5%;
+}
+
+.Steam-Room{
+    position: relative;
+    height: 1500px;
+    width: 2000px;
+}
+
+.Steam-Room img{
+    position: relative;
+    width: 45%;
+    height: 40%;
+    top: -478%;
+    left: 48.3%;
+}
